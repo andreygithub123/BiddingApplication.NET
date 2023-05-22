@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfOffer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Offer>
+    <offerName>dasd</offerName>
+    <offerId>12312</offerId>
+    <biddingPrice>12312</biddingPrice>
+  </Offer>
+  <Offer>
+    <offerName>dasd</offerName>
+    <offerId>3</offerId>
+    <biddingPrice>12312</biddingPrice>
+  </Offer>
+  <Offer>
+    <offerName>dasd</offerName>
+    <offerId>4</offerId>
+    <biddingPrice>12312</biddingPrice>
+  </Offer>
+  <Offer>
+    <offerName>favav</offerName>
+    <offerId>5</offerId>
+    <biddingPrice>41</biddingPrice>
+  </Offer>
+</ArrayOfOffer>
